@@ -33,7 +33,16 @@ ORDER BY Month;
 - Used GROUP BY, ORDER BY, LIMIT for aggregation and ranking.
 - Applied date functions for time-series analysis.
 - Translated raw transactional data into actionable business insights.
-``` 
+```
+### Regional Sales Performance
+![Regional Sales](images/regional_sales.jpeg)
+
+### Top 5 Products by Sales
+![Top Products](images/top_products.jpeg)
+
+### Monthly Sales Trend
+![Monthly Trend](images/monthly_trends.jpeg)
+
 ## Next Steps
 - Extend analysis with Python (Pandas + Matplotlib) for visualizations.
 - Build a Power BI dashboard using the same dataset.
